@@ -1,5 +1,6 @@
 import google.generativeai as genai
 import time
+#list of gemini api key that i used
 geminiONe= "AIzaSyBXlc2Fv6RijN1S4UYZlc0a4g-FQ3zzCVs" 
 geminitwo="AIzaSyCbrSE63bgPaagQISBLrsV3KwKDpJjIuyI"
 geminiThree = "AIzaSyDEJ0dzEI31tYYIG7asozrufE7GIxWhSmU"
