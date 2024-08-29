@@ -1,16 +1,7 @@
 import google.generativeai as genai
 import time
 #list of gemini api key that i used
-geminiONe= "AIzaSyBXlc2Fv6RijN1S4UYZlc0a4g-FQ3zzCVs" 
-geminitwo="AIzaSyCbrSE63bgPaagQISBLrsV3KwKDpJjIuyI"
-geminiThree = "AIzaSyDEJ0dzEI31tYYIG7asozrufE7GIxWhSmU"
-geminifour = "AIzaSyAN05rbN6CmTq9FxGo34vyajSfKlsZATqE"
-geminifive = 'AIzaSyD3q794Bi5NlQPQG9OyMutsNKT1THA87kI'
-geminisix = 'AIzaSyDD0BsMjEMC546qebsiaDiahC4lReM6HoM'
-ball= "AIzaSyAek2Tdke1ZQDOgmjJGR9G6JnLweovTeUw"
-daviddavid="AIzaSyBJ0uqwFw3dm7vzwcclfBfkWHEriFp5vdo"
-brendan = "AIzaSyDfw6fPe_k1XrfprpDsDxq3yHPp0ChtA4g"
-brendan2 = "AIzaSyAWm8Qak8HYVZx2jHKaAV7yFZdOoa4OEj0"
+geminisix = 'YOur API KEY' #replace with your api key
 
 
 limit1 = 3000  #process the 3000th to 4500th sets.
