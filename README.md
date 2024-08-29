@@ -8,3 +8,4 @@ Then I import it to sqlite database and sort it, when sorting, cast the the thin
 
 
 To run the llama model, you have to run pip install gpt4all in terminal first.
+The llama.py run about 2-3 days on my computer
