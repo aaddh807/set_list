@@ -54,7 +54,7 @@ seperator = '-' * 40
 element_list = []
 set_length = 0
 sample_number = 3
-with open("set_member_larger_6_format_random_first_30000.csv","r") as f:
+with open("set_member_larger_6_format_random_first_30000.txt","r") as f:
     first = True
     count = 0
     lin_num = 0
