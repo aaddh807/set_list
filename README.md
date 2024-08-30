@@ -1,7 +1,7 @@
 The code in caligraph are used to extract sets and its member from the file "caligraph-instances_types.nt.bz2" in caligraph. I first decompress it then run the python code.
 
 For wikidata, I first run the preprocess_dump.py with the wikidata dump that I downloaded. Then I used those "fetch" files to get te property or label that I want.
-For sorting and mapping I used sqlite so no python code is used.
+For sorting and mapping I import the csv to sqlite so no python code is used.
 
 Before given to llm, all the list are unquote by this python code from urllib.parse import unquote and '_' are replace by space.
 
